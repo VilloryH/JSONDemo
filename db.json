@@ -2,15 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Смартфон"
+      "subtitle": "Samsung Galaxy A03"
+      "url": "https://cdn21vek.by/img/galleries/65575/415/preview/galaxya03coresma032fzkdser_samsung_61a73b096e409.jpeg"
     },
     {
       "id": 2,
-      "title": "Post 2"
+     "title": "Смартфон"
+      "subtitle": "Xiaomi Redmi Note"
+      "url": "https://cdn21vek.by/img/galleries/7220/945/preview/redminote114gb64gb_xiaomi_02_61f2ad5a303a3.jpeg"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Смартфон"
+      "subtitle": "Xiaomi Redmi A9"
+      "url": "https://cdn21vek.by/img/galleries/6088/597/preview/redmi9a2gb32gbm2006c3lg_xiaomi_01_5f16ddbfba68a.jpeg"
     }
   ],
   "comments": [
