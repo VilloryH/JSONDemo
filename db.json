@@ -80,85 +80,31 @@
        "posts": [
      {
        "id": 1,
-       "title": "Смартфон",
-       "subtitle": "Samsung Galaxy A03",
-       "title": "Samsung",
-       "subtitle": "Galaxy A03",
-       "price": 1200,
-       "url": "https://cdn21vek.by/img/galleries/65575/415/preview/galaxya03coresma032fzkdser_samsung_61a73b096e409.jpeg"
+       "title": "Lenovo",
+       "subtitle": "IdeaPad L3 15ITL6 (82HL006TRE)",
+       "price": 1249,
+       "url": "https://cdn21vek.by/img/galleries/6825/30/preview/ideapadl315itl682hl006tre_lenovo_611fa77e638d5.jpeg"
      },
      {
        "id": 2,
-       "title": "Смартфон",
-       "subtitle": "Xiaomi Redmi Note",
-       "title": "Xiaomi",
-       "subtitle": "Redmi Note",
-       "price": 1520,
-       "url": "https://cdn21vek.by/img/galleries/7220/945/preview/redminote114gb64gb_xiaomi_02_61f2ad5a303a3.jpeg"
+       "title": "Honor",
+       "subtitle": "MagicBook X15 (BBR-WAH9)",
+       "price": 2499,
+       "url": "https://cdn21vek.by/img/galleries/6625/970/preview/magicbookx15bbrwah9_honor_60ca22212c2a8.jpeg"
      },
      {
        "id": 3,
-       "title": "Смартфон",
-       "subtitle": "Xiaomi Redmi A9",
-       "title": "Xiaomi",
-       "subtitle": "Redmi A9",
-       "price": 1520,
-       "url": "https://cdn21vek.by/img/galleries/6088/597/preview/redmi9a2gb32gbm2006c3lg_xiaomi_01_5f16ddbfba68a.jpeg"
+       "title": "Acer",
+       "subtitle": "Aspire 3 A315-34-P7TD (NX.HE3EU.059)",
+       "price": 1269,
+       "url": "https://cdn21vek.by/img/galleries/6955/966/preview/aspire3a31534p7tdnxhe3eu059_acer_623c3cc599c75.jpeg"
      },
      {
        "id": 4,
-       "title": "Realme",
-       "subtitle": "CS25s",
-       "price": 700,
-       "url": "https://cdn21vek.by/img/galleries/7030/293/preview/c25s4gb128gbrmx3195watergrey_realme_618a0ba1c5a8c.jpeg"
-     }
-     ,
-     {
-       "id": 5,
-       "title": "Huawei",
-       "subtitle": "Y5p",
-       "price": 320,
-       "url": "https://cdn21vek.by/img/galleries/6026/324/preview/y5pdralx9_huawei_02_5edf37f1945ed.jpeg"
-     }
-     ,
-     {
-       "id": 6,
-       "title": "Honor",
-       "subtitle": "50 Lite",
-       "price": 1520,
-       "url": "https://cdn21vek.by/img/galleries/65583/354/preview/50lite6gb128gbntnlx1_honor_01_61af06d3253b0.jpeg"
-     }
-     ,
-     {
-       "id": 7,
-       "title": "Apple",
-       "subtitle": "IPhone 11",
-       "price": 2230,
-       "url": "https://cdn21vek.by/img/galleries/6088/597/preview/redmi9a2gb32gbm2006c3lg_xiaomi_01_5f16ddbfba68a.jpeg"
-     }
-     ,
-     {
-       "id": 8,
-       "title": "Xiaomi",
-       "subtitle": "Redmi A9",
-       "price": 1520,
-       "url": "https://cdn21vek.by/img/galleries/6270/100/preview/iphone11128gbmhdj3_apple_5fec1ba792d5d.jpeg"
-     }
-     ,
-     {
-       "id": 9,
-       "title": "Techo Pop",
-       "subtitle": "F2",
-       "price": 1520,
-       "url": "https://cdn21vek.by/img/galleries/5930/713/preview/pop2f116gbb1f_tecno_01_60b473376dd00.jpeg"
-     }
-     ,
-     {
-       "id": 10,
-       "title": "Ulefon",
-       "subtitle": "Armor X6",
-       "price": 1520,
-       "url": "https://cdn21vek.by/img/galleries/5888/74/preview/armorx6_ulefone_01_5e8f359fc5852.jpeg"
+       "title": "HP",
+       "subtitle": "15s-eq1328ur (3C8N9EA",
+       "price": 1559,
+       "url": "https://cdn21vek.by/img/galleries/6867/533/preview/15seq1328ur3c8n9ea_hp_62151e386195a.jpeg"
      }
    ]
 }
